@@ -1,2 +1,6 @@
+spring:
+  application:
+    name: inventory
+
 inventory:
-  message: "changed value"
+  threshold: 100
