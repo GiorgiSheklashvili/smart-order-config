@@ -3,4 +3,4 @@ spring:
     name: inventory
 
 inventory:
-  threshold: 99
+  threshold: 100
